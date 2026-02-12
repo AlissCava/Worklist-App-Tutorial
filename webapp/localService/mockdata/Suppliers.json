@@ -1,0 +1,79 @@
+[
+  {
+    "SupplierID" : 1 ,
+     "CompanyName" : "New Orleans Cajun Delights" ,
+     "ContactName" : "Shelley Burke" ,
+     "ContactTitle" : "Order Administrator" ,
+     "Address" : "PO Box 78934" ,
+     "City" : "New Orleans" ,
+     "Region" : "LA" ,
+     "PostalCode" : "70117" ,
+     "Country" : "USA"
+  },
+  {
+    "SupplierID" : 2 ,
+     "CompanyName" : "Exotic Liquids" ,
+     "ContactName" : "Charlotte Cooper" ,
+     "ContactTitle" : "Purchasing Manager" ,
+     "Address" : "49 Gilbert St." ,
+     "City" : "London" ,
+     "Region" : "UK" ,
+     "PostalCode" : "EC1 4SD" ,
+     "Country" : "UK"
+  },
+  {
+    "SupplierID" : 3 ,
+     "CompanyName" : "Grandma Kelly's Homestead" ,
+     "ContactName" : "Regina Murphy" ,
+     "ContactTitle" : "Sales Representative" ,
+     "Address" : "707 Oxford Rd." ,
+     "City" : "Ann Arbor" ,
+     "Region" : "MI" ,
+     "PostalCode" : "48104" ,
+     "Country" : "USA"
+  },
+  {
+    "SupplierID" : 4 ,
+     "CompanyName" : "Forêts d'érables" ,
+     "ContactName" : "Chantal Goulet" ,
+     "ContactTitle" : "Direttore contabile" ,
+     "Indirizzo" : "148 rue Chasseur" ,
+     "Città" : "Ste-Hyacinthe" ,
+     "Regione" : "Québec" ,
+     "Codice postale" : "J2S 7S8" ,
+     "Paese" : "Canada"
+  },
+  {
+    "SupplierID" : 5 ,
+     "CompanyName" : "Plutzer Lebensmittelgroßmärkte AG" ,
+     "ContactName" : "Martin Bein" ,
+     "ContactTitle" : "International Marketing Mgr." ,
+     "Indirizzo" : "Bogenallee 51" ,
+     "Città" : "Francoforte" ,
+     "Regione" : "DE" ,
+     "Codice postale" : "60439" ,
+     "Paese" : "Germania"
+  },
+  {
+    "SupplierID" : 6 ,
+     "CompanyName" : "Lyngbysild" ,
+     "ContactName" : "Niels Petersen" ,
+     "ContactTitle" : "Sales Manager" ,
+     "Indirizzo" : "Lyngbysild Fiskebakken 10" ,
+     "Città" : "Lyngby" ,
+     "Regione" : "NL" ,
+     "Codice postale" : "2800" ,
+     "Paese" : "Danimarca"
+  },
+  {
+    "SupplierID" : 7 ,
+     "CompanyName" : "Formaggi Fortini srl" ,
+     "ContactName" : "Elio Rossi" ,
+     "ContactTitle" : "Rappresentante di vendita" ,
+     "Indirizzo" : "Viale Dante, 75" ,
+     "Città" : "Ravenna" ,
+     "Regione" : "IL" ,
+     "Codice Postale" : "48100" ,
+     "Paese" : "Italia"
+  }
+]
